@@ -1,6 +1,6 @@
 # pyna
-network automation class
-# pyna (Project Title)
+network automation
+# pyna (python for network automation)
 
 learning to version control projects with github
 
@@ -8,12 +8,12 @@ learning to version control projects with github
 
 These instructions will get you a copy of the project up and running on your local machine
 for development and testing purposes. See deployment for notes on how to deploy the project
-on a live system.
+on a live system. (pending)
 
 ### Prerequisites
 
 What things you need to install the software and how to install them. For now, maybe copy in
-how to install python and python3 using apt.
+how to install python and python3 using apt. (pending)
 
 ## Built With
 
