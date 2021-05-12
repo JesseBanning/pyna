@@ -16,7 +16,7 @@ import seaborn as sns
 def main():
     """run-time code"""
     # consolidate the above steps into a single line using the index_col and parse_dates parameters of the read_csv() function
-    opsd_daily = pd.read_csv('netTraffic.csv', index_col=0, parse_dates=False)
+    opsd_daily = pd.read_csv('netTraffic.csv', index_col=0, parse_dates=True)
 
     # add some additional columns to our data
     # Add columns with year, month, and weekday name
